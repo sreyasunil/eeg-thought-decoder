@@ -84,9 +84,11 @@ Kara One EEG Dataset(Toronto University)
 
 # Future Enhancements
 
-* Real-time semantic thought decoding
-* Advanced Transformer optimization
+* Develop a real-time Brain-Computer Interface (BCI) system for live thought decoding
+* Improve model accuracy and semantic prediction performance
 * Emotion and intent recognition
-* Lightweight deployment models
-* BCI device integration
-* Enhanced attention-based architectures
+* Extend the system from Top-K word prediction to full sentence generation
+* Train on larger EEG datasets with more subjects for better generalization
+* Integrate Emotion-Aware Analysis (EAA) by combining emotional and semantic EEG features
+  
+
