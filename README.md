@@ -52,7 +52,7 @@ Applies attention mechanisms to capture semantic and contextual relationships in
 
 # Dataset
 
-Kara One EEG Dataset
+Kara One EEG Dataset(Toronto University)
 
 
 ---
