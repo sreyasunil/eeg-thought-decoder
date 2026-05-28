@@ -54,7 +54,6 @@ Applies attention mechanisms to capture semantic and contextual relationships in
 
 Kara One EEG Dataset
 
-(Add dataset link here)
 
 ---
 
